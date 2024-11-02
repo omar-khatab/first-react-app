@@ -1,0 +1,9 @@
+/* this css file for the react page and don't need the export as this is css file don't know export*/
+.active {
+    background-color: yellow;
+    border: 2px solid purple;
+}
+.fine {
+    background-color: green;
+    border: 2px solid yellow;
+}
